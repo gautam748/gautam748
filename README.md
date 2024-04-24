@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on bitcoin related projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Bitcoin is simple and elegant
+- ⚡ Fun fact: Bitcoin is  elegant
 
 <!---
 gautam748/gautam748 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
